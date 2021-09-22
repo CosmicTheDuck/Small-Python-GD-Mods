@@ -12,3 +12,7 @@ Freeze After 10 Attempts: Freezes your icon after ten attempts (note that it wil
 The Game Closes On Death: your game dies on death
 
 Grain.py: opens never gonna give you up on death
+
+xpos.py: seizure teleportation
+
+after a mental breakdown: AFTER A MENTAL BREAKDOWN 33 ATTEMPTS 10 MINUTES I FEEL INTO A COMA AFTER WRITING THIS (NOT CLICKBAIT)
